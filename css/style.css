@@ -1,0 +1,42 @@
+
+body{
+    background: #4B79A1;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.container { 
+    position: relative;
+    color: #fff;
+}
+
+input, label {
+    position: relative;
+    display: block;
+    font-size: 18px;
+    padding: 5px;
+    width: 50%;
+}
+
+button {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.data {
+    color: #fff;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
+
+.data div {
+    border: #fff;
+    border-style: solid;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+
